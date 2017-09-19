@@ -7,10 +7,10 @@
                 id="rom"
                 title="ROM"
                 description="Latest Cardinal-AOSP build">https://drive.google.com/open?id=0B7MdBmXfQKGTZVotel9qQUJCbWc</RomUrl>
-            <GappsUrl
+            <OpenGappsUrl
                 id="gapps"
                 title="GApps"
-                description="Download latest GApps">https://opengapps.org</GappsUrl>
+                description="Download latest GApps">https://opengapps.org</OpenGappsUrl>
         </kenzo>
     </Stable>
 </CardinalOTA>
