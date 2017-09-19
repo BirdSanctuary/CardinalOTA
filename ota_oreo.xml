@@ -2,7 +2,7 @@
 <CardinalOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <kenzo>
-            <Filename>Cardinal-AOSP-5.0-STAGING-OREO-kenzo-OFFICIAL-20170920</Filename>
+            <Filename>Cardinal-AOSP-5.0-STAGING-OREO-kenzo-20170920.zip</Filename>
             <RomUrl
                 id="rom"
                 title="ROM"
