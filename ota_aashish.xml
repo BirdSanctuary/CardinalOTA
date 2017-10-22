@@ -6,11 +6,11 @@
             <RomUrl
                 id="rom"
                 title="ROM"
-                description="Download Latest Build">https://sourceforge.net/projects/cardinal-aosp/files/kenzo/Cardinal-AOSP-5.0-OREO-kenzo-OFFICIAL-20171021.zip/download</RomUrl>
-            <OpenGAppsUrl
-                id="GApps"
+                description="Latest Cardinal-AOSP build">https://sourceforge.net/projects/cardinal-aosp/files/kenzo/Cardinal-AOSP-5.0-OREO-kenzo-OFFICIAL-20171021.zip/download</RomUrl>
+            <OpenGappsUrl
+                id="Gapps"
                 title="GApps"
-                description="Download latest GApps">https://opengapps.org</OpenGAppsUrl>
+                description="Download latest GApps">https://opengapps.org</OpenGappsUrl>
         </kenzo>
     </Stable>
 </CardinalOTA>
