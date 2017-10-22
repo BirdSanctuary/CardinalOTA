@@ -2,15 +2,15 @@
 <CardinalOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <kenzo>
-            <Filename>Cardinal-AOSP-5.0-OREO-kenzo-OFFICIAL-20171022.zip</Filename>
+            <Filename>Cardinal-AOSP-5.0-OREO-kenzo-OFFICIAL-20171021.zip</Filename>
             <RomUrl
                 id="rom"
                 title="ROM"
-                description="Latest Cardinal-AOSP build">https://sourceforge.net/projects/cardinal-aosp/files/kenzo/Cardinal-AOSP-5.0-kenzo-OFFICIAL-20171022.zip/download</RomUrl>
-            <OpenGappsUrl
-                id="gapps"
+                description="Download Latest Build">https://sourceforge.net/projects/cardinal-aosp/files/kenzo/Cardinal-AOSP-5.0-OREO-kenzo-OFFICIAL-20171021.zip/download</RomUrl>
+            <OpenGAppsUrl
+                id="GApps"
                 title="GApps"
-                description="Download latest GApps">https://opengapps.org</OpenGappsUrl>
+                description="Download latest GApps">https://opengapps.org</OpenGAppsUrl>
         </kenzo>
     </Stable>
 </CardinalOTA>
