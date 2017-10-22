@@ -1,4 +1,4 @@
-ota_url=https://github.com/BirdSanctuary/CardinalOTA/raw/oreo/ota_oreo.xml
+ota_url=https://github.com/BirdSanctuary/OTA/raw/oreo/ota_oreo.xml
 release_type=Stable
 device_name=ro.cardinal.device
 version_source=cardinal.ota.version
